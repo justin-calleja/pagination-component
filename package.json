@@ -1,9 +1,10 @@
 {
   "name": "pagination-component",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "React component for pagination",
   "homepage": "",
   "repository": "",
+  "files": ["umd"],
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
