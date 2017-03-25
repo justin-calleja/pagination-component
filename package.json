@@ -2,6 +2,8 @@
   "name": "pagination-component",
   "version": "1.3.2",
   "description": "React component for pagination",
+  "homepage": "https://github.com/dibenso/pagination-component",
+  "repository": "https://github.com/dibenso/pagination-component",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
