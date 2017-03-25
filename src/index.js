@@ -6,8 +6,14 @@ class Pagination extends React.Component {
     currentPage: PropTypes.number.isRequired,
     pageCount: PropTypes.number.isRequired,
     onPageClick: PropTypes.func.isRequired,
-    pageLinkClassName: PropTypes.object.isRequired,
-    currentLinkClassName: PropTypes.object.isRequired
+    pageLinkClassName: PropTypes.oneOfType([
+      PropTypes.object,
+      PropTypes.string
+    ]).isRequired,
+    currentLinkClassName: PropTypes.oneOfType([
+      PropTypes.object,
+      PropTypes.string
+    ]).isRequired
   };
 
   render() {
