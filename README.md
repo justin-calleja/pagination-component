@@ -2,7 +2,6 @@
 
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
-[![Coveralls][coveralls-badge]][coveralls]
 
 A React component that provides pagination.     
 
@@ -51,6 +50,3 @@ yarn test
 
 [npm-badge]: https://img.shields.io/npm/v/pagination-component.png?style=flat-square
 [npm]: https://www.npmjs.org/package/pagination-component
-
-[coveralls-badge]: https://img.shields.io/coveralls/dibenso/pagination-component/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/dibenso/pagination-component
