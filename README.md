@@ -108,7 +108,7 @@ function handlePageClick(page) {
 ```javascript
 import React from 'react'
 import {render} from 'react-dom'
-import Pagination from '../../src';
+import Pagination from 'pagination-component';
 import { css } from 'glamor';
 
 const pageLink = css({
