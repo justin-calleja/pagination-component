@@ -58,9 +58,13 @@ If this prop is a string, then the prop indicates the className of the css to us
   -moz-border-radius: 20px;
   border-radius: 20px;
 }
+```  
+Then import this css into js:     
+```javascript
+import styles from './styles.css';
 ```
-Then pass "pageLink" in for this prop to use these styles.     
-If this prop is a string, then the prop indicates the style to use. This is useful for CSS in JS libraries like glamor. Example using glamor:     
+Then pass ``styles.pageLink`` in for this prop to use these styles.     
+If this prop is a object, then the prop indicates the style to use. This is useful for CSS in JS libraries like glamor. Example using glamor:     
 ```javascript
 import { css } from 'glamor';
 
