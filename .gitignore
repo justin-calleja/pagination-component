@@ -1,10 +1,8 @@
 /coverage
 /demo/dist
-/demo/node_modules
 /es
 /lib
 /node_modules
-/tests/node_modules
 /umd
 npm-debug.log*
 *.lock
