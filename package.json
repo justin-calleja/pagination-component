@@ -1,9 +1,9 @@
 {
   "name": "pagination-component",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "React component for pagination",
-  "homepage": "https://github.com/dibenso/pagination-component",
-  "repository": "https://github.com/dibenso/pagination-component",
+  "homepage": "",
+  "repository": "",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -24,15 +24,14 @@
     "react": "15.x"
   },
   "devDependencies": {
+    "glamor": "^2.20.24",
     "karma-chai-plugins": "^0.8.0",
     "nwb": "0.15.x",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
   "author": "Dillon Benson",
-  "homepage": "",
   "license": "MIT",
-  "repository": "",
   "keywords": [
     "react-component",
     "pagination",

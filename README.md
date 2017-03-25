@@ -3,7 +3,16 @@
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 
-A React component that provides pagination.     
+A React component that provides pagination.  
+
+## Installation    
+```sh
+npm install pagination-component --save
+```     
+or     
+```sh
+yarn add pagination-component
+```     
 
 ## Demo     
 To build and run the demo:      
