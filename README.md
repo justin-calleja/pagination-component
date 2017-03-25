@@ -25,7 +25,7 @@ yarn install
 npm start
 ```
     
-Then check [http://localhost:3000]     
+Then check [http://localhost:3000]()     
 
 
 ## Tests
