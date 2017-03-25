@@ -1,9 +1,11 @@
 {
   "name": "pagination-component",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "React component for pagination",
-  "homepage": "",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dibenso/pagination-component.git"
+  },
   "files": ["umd"],
   "main": "lib/index.js",
   "module": "es/index.js",
