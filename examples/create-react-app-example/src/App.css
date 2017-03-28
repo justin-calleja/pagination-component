@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.page-link {
+  margin: 2px;
+  display: inline-block;
+  padding: 2px;
+  webkit-border-radius: 20px;
+  moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.current-link {
+  background-color: #0074c2;
+  display: inline-block;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a,
+a:link,
+a:active,
+a:visited,
+a:hover {
+  color:           #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
