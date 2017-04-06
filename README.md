@@ -150,10 +150,7 @@ render(<Example />, document.querySelector('#root'))
 
 ## Tests
 To run the tests:      
-* Install dependencies from package.json in the tests directory:
-```sh
-cd tests
-```      
+* Install dependencies from package.json   
 ```sh
 npm install
 ```     
@@ -161,7 +158,7 @@ or
 ```sh
 yarn install
 ```       
-* Then from the root project directory:     
+* Then:     
 ```sh
 yarn test
 ```      
