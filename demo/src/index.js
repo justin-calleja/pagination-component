@@ -24,7 +24,7 @@ const currentLink = css({
 let Demo = React.createClass({
   render() {
     return <div>
-      <h1>react-paginator Demo</h1>
+      <h1>pagination-component Demo</h1>
       <Pagination currentPage={5}
                  pageCount={25}
                  pageLinkClassName={pageLink}
