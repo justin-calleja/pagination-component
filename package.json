@@ -1,10 +1,10 @@
 {
-  "name": "pagination-component",
+  "name": "@justinc/pagination-component",
   "version": "1.5.7",
-  "description": "React component for pagination",
+  "description": "React component for pagination see https://github.com/dibenso/pagination-component",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dibenso/pagination-component.git"
+    "url": "https://github.com/justin-calleja/pagination-component"
   },
   "files": [
     "css",

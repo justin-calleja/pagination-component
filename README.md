@@ -1,3 +1,15 @@
+# NOTE
+
+This package has been forked from [here](https://github.com/dibenso/pagination-component).
+
+This fork is temporary to publish the package properly (see [issue](https://github.com/dibenso/pagination-component/issues/1)).
+
+To install: `npm i -S @justinc/pagination-component`
+
+Original README.md follows:
+
+- - -
+
 # pagination-component
 
 [![Travis][build-badge]][build]
